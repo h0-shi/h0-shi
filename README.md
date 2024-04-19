@@ -10,7 +10,7 @@
 	내 깃허브를 꾸미고 있어요!
 </div>
 
-## Stacks🖥️
+## 🖥️ Stacks
 
 <div>
 	<!-- Java -->
@@ -31,7 +31,7 @@
 	<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
 </div>
 
-## Tools🛠️
+## 🛠️ Tools
 
 <div>
 	<!-- Eclipse -->
@@ -48,7 +48,7 @@
 
 #![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0-shi&show_icons=true&theme=radical)
 
-## 😎About Me
+## 😎 About Me
 <div>
 	<!-- Notion -->
 	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
