@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30](https://capsule-render.vercel.app/api?type=waving&text=HelloWorld!&fontAlign=30&fontSize=30&desc=shihoPark&descAlign=60&descAlignY=50&color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&text=HelloWorld!&fontAlign=30&fontSize=30&desc=shihoPark&descAlign=60&descAlignY=50&color=auto)
+https://capsule-render.vercel.app/api?type=waving&text=HelloWorld!&fontAlign=30&fontSize=30&desc=shihoPark&descAlign=60&descAlignY=50&color=auto
 
 ## 주니어 개발자 박시호입니다. 👋
 
