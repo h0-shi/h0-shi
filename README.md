@@ -1,8 +1,3 @@
-<div align=right>
-	
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh0-shi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Good%20to%20see%20you!&fontAlign=50&fontAlignY=30&fontSize=50&desc=I%27m%20shiho%20Park&descAlign=50&descAlignY=50&theme=vue&height=200&fontColor=ffffff)
 
 
@@ -55,6 +50,9 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 : https://www.notion.so/Programing-f695ee6297634fd99e4515fa3103d297?pvs=4
 </div>
+<div align=right>
+	
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh0-shi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <!--
 **h0-shi/h0-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
