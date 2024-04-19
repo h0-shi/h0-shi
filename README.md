@@ -6,7 +6,7 @@
 	
 </div>
 Stacks
-![Java](https://img.shields.io/badge/Java-#FF7800?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/Java-#F7DF1E?style=for-the-badge&logo=#F7DF1E&logoColor=white">
 
 ---
 
