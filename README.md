@@ -57,8 +57,7 @@
 <!-- Notion -->
 	
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
-https://www.notion.so/Programing-f695ee6297634fd99e4515fa3103d297?pvs=4
+: https://www.notion.so/Programing-f695ee6297634fd99e4515fa3103d297?pvs=4
 </div>
 </div>
 <!--
