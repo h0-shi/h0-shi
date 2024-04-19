@@ -45,15 +45,15 @@
   	<!-- OpenLayers -->
 	<img src="https://img.shields.io/badge/openlayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white">
 </div><br>
-
+<span>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0-shi&show_icons=true&theme=radical) 
+</span>
+<span>
 ### 😎 About Me
-<div>
 	<!-- Notion -->
 	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
 	https://www.notion.so/Programing-f695ee6297634fd99e4515fa3103d297?pvs=4
-</div>
-
+</span>
 <!--
 **h0-shi/h0-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
