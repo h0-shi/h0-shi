@@ -44,8 +44,8 @@
  	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   	<!-- OpenLayers -->
 	<img src="https://img.shields.io/badge/openlayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white">
-</div>
-<div>
+</div><br>
+<div width='50%'>
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0-shi&show_icons=true&theme=radical) 
 </div>
