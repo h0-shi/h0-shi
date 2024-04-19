@@ -48,10 +48,10 @@
 <span>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0-shi&show_icons=true&theme=radical) 
 </span>
-<span>
+<span>	
 ### 😎 About Me
-	<!-- Notion -->
-	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
+<!-- Notion -->
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
 	https://www.notion.so/Programing-f695ee6297634fd99e4515fa3103d297?pvs=4
 </span>
 <!--
