@@ -19,14 +19,14 @@
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
 	<!-- JavaScrtip -->
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+	<!-- SpringBoot -->
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+	<!-- Spring -->
+	<img src="https://img.shields.io/badge/Spring-36DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 	<!-- CSS -->
 	<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	<!-- jQuery -->
-	<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-	<!-- Spring -->
-	<img src="https://img.shields.io/badge/Spring-36DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-	<!-- SpringBoot -->
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+	<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">	
  	<!-- MariaDB -->
 	<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
 </div>
