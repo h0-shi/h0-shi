@@ -1,4 +1,4 @@
-## 주니어 개발자 박시호입니다. 👋
+# 주니어 개발자 박시호입니다. 👋
 
 <div align=center>
 	
@@ -6,7 +6,7 @@
 	
 </div>
 
-### Stacks
+## Stacks🖥️
 
 <div>
 	<!-- HTML -->
@@ -23,10 +23,11 @@
 	<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
 </div>
 
-### Tools
+## Tools🛠️
 
 <div>
-
+	<!-- MariaDB -->
+	<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
 	
 </div>
 
