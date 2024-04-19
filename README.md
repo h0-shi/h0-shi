@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello!%20I'm%20Shiho!&fontAlign=30&fontSize=30&desc=shihoPark&descAlign=60&descAlignY=50&theme=vue&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello!%20Dev!&fontAlign=30&fontSize=30&desc=shiho%20Park&descAlign=60&descAlignY=50&theme=vue&fontColor=ffffff)
 
 ## 주니어 개발자 박시호입니다. 👋
 
