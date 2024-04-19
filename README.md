@@ -1,4 +1,4 @@
-## 주니어 개발자 박시호입니다. 👋
+![image](https://github.com/h0-shi/h0-shi/assets/143009168/6d2ad201-2793-448d-9a22-32f04870f3f3)## 주니어 개발자 박시호입니다. 👋
 
 <div align=center>
 	
@@ -8,9 +8,12 @@
 Stacks
 <div>
 	<img src="https://img.shields.io/badge/이름-색상?style=for-the-badge&logo=아이콘&logoColor=white">
+	<img src="https://img.shields.io/badge/이름-색상?style=for-the-badge&logo=아이콘&logoColor=white">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring-36DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+
 </div>
 
 ---
