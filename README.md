@@ -28,8 +28,21 @@
 ## Tools🛠️
 
 <div>
-	<!-- MariaDB -->
-	<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
+	<!-- Eclipse -->
+	<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+	<!-- GitHub -->
+	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+	<!-- VSCode -->
+  	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+ 	<!-- BootStrap -->
+ 	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  	<!-- OpenLayers -->
+	<img src="https://img.shields.io/badge/openlayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white">
+
+
+
+
+
 	
 </div>
 
