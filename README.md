@@ -52,8 +52,10 @@
 <div style="width:50%; display:flex;">
 ### 😎 About Me
 <!-- Notion -->
+	
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-	https://www.notion.so/Programing-f695ee6297634fd99e4515fa3103d297?pvs=4
+
+https://www.notion.so/Programing-f695ee6297634fd99e4515fa3103d297?pvs=4
 </div>
 <!--
 **h0-shi/h0-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
