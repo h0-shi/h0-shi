@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Good%20to%20see%20you!&fontAlign=50&fontAlignY=30&fontSize=50&desc=I%27m%20shiho%20Park&descAlign=50&descAlignY=50&theme=vue&height=200&fontColor=ffffff)
-
-## 주니어 개발자 박시호입니다. 👋
-
 <div align=center>
 	
  오늘의 방문자<br>
