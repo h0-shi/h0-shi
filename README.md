@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Good%20to%20see%20you!&fontAlign=50&fontAlignY=30&fontSize=50&desc=I%27m%20shiho%20Park&descAlign=50&descAlignY=50&theme=vue&height=200&fontColor=ffffff)
 <div>
-	
- 오늘의 방문자<br>
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh0-shi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 </div>
