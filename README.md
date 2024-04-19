@@ -46,10 +46,8 @@
 	<img src="https://img.shields.io/badge/openlayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white">
 </div><br>
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0-shi&show_icons=true&theme=radical) 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0-shi&show_icons=true&theme=radical) 
 ### 😎 About Me
-
 <div>
 	<!-- Notion -->
 	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
