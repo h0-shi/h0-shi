@@ -6,6 +6,7 @@
 	
 </div>
 Stacks
+<div>
 <!-- HTML --><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
 <!-- CSS --><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <!-- JavaScrtip --><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -13,7 +14,7 @@ Stacks
 <!-- SpringBoot --><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
  <!-- MariaDB --><img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
 	
-
+</div>
 
 ---
 
