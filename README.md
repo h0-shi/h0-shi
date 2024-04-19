@@ -44,8 +44,10 @@
 
 #![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0-shi&show_icons=true&theme=radical)
 
-
-
+## 😎About Me
+<div>
+	
+</div>
 
 <!--
 **h0-shi/h0-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
