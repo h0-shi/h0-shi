@@ -1,4 +1,7 @@
-### Hi there 👋
+## 주니어 개발자 박시호입니다. 👋
+
+---
+
 
 <!--
 **h0-shi/h0-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
